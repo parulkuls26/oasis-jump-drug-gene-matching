@@ -2,6 +2,8 @@
 
 An exploratory analysis extending the OASIS Cell Painting framework beyond toxicity prediction by linking drug-induced morphological phenotypes to CRISPR gene perturbations from the JUMP Cell Painting consortium.
 
+Please check the full project report: `OASIS-jump exploration_ParulK.pdf` uploaded on this repository.
+
 ## Project Overview
 
 Ewald et al. (2026) introduced OASIS, a large-scale Cell Painting resource generated in primary human hepatocytes for cytotoxicity and mechanism-of-action analysis. A key insight from the study is that morphology captures integrated cellular responses rather than direct biochemical target engagement.
