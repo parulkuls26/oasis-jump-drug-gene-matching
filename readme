@@ -51,3 +51,14 @@ This project demonstrates the feasibility of linking OASIS drug-induced morpholo
 1. Ewald JD et al. (2026). *Cell Painting for cytotoxicity and mode-of-action analysis in primary human hepatocytes*. Cell Systems, 17(5), 101566.
 2. Chandrasekaran SN et al. (2023). *JUMP Cell Painting dataset: morphological impact of chemical and genetic perturbations*.
 3. Korsunsky I et al. (2019). *Fast, sensitive and accurate integration of single-cell data with Harmony*. Nature Methods, 16(12), 1289–1296.
+
+
+## Original Resources
+
+This project builds upon the OASIS Cell Painting resource and associated analysis pipeline:
+
+- OASIS manuscript: Ewald et al. (2026), *Cell Painting for cytotoxicity and mode-of-action analysis in primary human hepatocytes*, Cell Systems.
+- Original OASIS repository: https://github.com/jessica-ewald/2024_09_09_Axiom_OASIS
+- JUMP Cell Painting Consortium: https://github.com/jump-cellpainting
+
+This repository is an independent exploratory extension and is not affiliated with the OASIS or JUMP projects.
